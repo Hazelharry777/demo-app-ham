@@ -45,7 +45,7 @@
     "snarkjs": "^0.7.3"
   },
   "dependencies": {
-    "@nebrazkp/upa": "../upa/package.tgz",
+    "@nebrazkp/upa": "2.0.3",
     "cmd-ts": "^0.13.0",
     "ethers": "^6.11.1",
     "snarkjs": "^0.7.3"
